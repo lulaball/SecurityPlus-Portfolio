@@ -1,3 +1,6 @@
+![Security+ Portfolio Banner](SecurityPlus_Portfolio_Banner.png)
+
+
 # Security+ Study Portfolio
 
 Welcome to my Security+ Study Portfolio! This repository documents my hands-on labs, study notes, and practice exercises as I prepare for the CompTIA Security+ certification.
